@@ -5,7 +5,7 @@ Python command line tool that optionally takes a count as an argument and lists 
 ./get_top_20_articles.py
  1. <title 1> <url 1>
  2. <title 2> <url 2>  
- ......
+ ......  
  20. <title 20> <url 20>
 
 ## Usage  
